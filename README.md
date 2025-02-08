@@ -1,2 +1,0 @@
-# ABOUTME
-README
